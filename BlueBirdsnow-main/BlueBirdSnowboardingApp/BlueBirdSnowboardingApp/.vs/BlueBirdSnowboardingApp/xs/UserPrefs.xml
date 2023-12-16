@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4EDA272D-2CC2-46D0-B7B3-7ACA9E5F8EF0}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Program.cs" line="3" column="0" endLine="3" endColumn="16" offsetX="-1" offsetY="-1" expression="builder.Services" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BlueBirdSnowboardingApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlueBirdSnowboardingApp" expanded="True" selected="True">
+            <Node name="BlueBirdSnowboardingApp" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

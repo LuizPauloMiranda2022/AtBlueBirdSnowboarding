@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{6CD90997-7C05-4DA3-94B1-5596298646D9}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../BlueBirdSnowboardingApp/Program.cs" line="3" column="0" endLine="3" endColumn="16" offsetX="-1" offsetY="-1" expression="builder.Services" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BlueBirdSnowboardingApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlueBirdSnowboardingApp/wwwroot/css/bootstrap.css">
+    <Files>
+      <File FileName="BlueBirdSnowboardingApp/Pages/Create.cshtml" />
+      <File FileName="BlueBirdSnowboardingApp/Pages/Create.cshtml.cs" />
+      <File FileName="BlueBirdSnowboardingApp/Services/Data/SnowboardService.cs" />
+      <File FileName="BlueBirdSnowboardingApp/Services/ISnowboardService.cs" />
+      <File FileName="BlueBirdSnowboardingApp/Services/Memory/SnowboardService.cs" />
+      <File FileName="BlueBirdSnowboardingApp/Pages/Edit.cshtml.cs" />
+      <File FileName="BlueBirdSnowboardingApp/Pages/Edit.cshtml" />
+      <File FileName="BlueBirdSnowboardingApp/wwwroot/css/bootstrap.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlueBirdSnowboardingApp" expanded="True">
+            <Node name="BlueBirdSnowboardingApp" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="bootstrap.css" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
